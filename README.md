@@ -1,8 +1,7 @@
 # projet_reseau
 
 collaborateur : 
-Antoine 
-aurelie
+Antoine & Aurelie
 
 projet 2 : VPN d'entreprise
 
